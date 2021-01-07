@@ -1,2 +1,2 @@
-apt-get update -y
-apt-get instll -y ngix
+apt-get update -y && apt-get upgrade -y
+apt-get install -y ngix
